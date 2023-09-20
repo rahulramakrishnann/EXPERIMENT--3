@@ -17,10 +17,10 @@ Latest Version Android Studio
 
 /*
 Program to print the text “Implicitintent”.
-Developed by: Sudhindev S
-Registeration Number : 212221040166
+Developed by: RAHUL R
+Registeration Number : 212221040136
 */
-
+```
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -132,7 +132,7 @@ ch = 1;
 }
 });
 } }
-
+```
 ## OUTPUT
 
 
